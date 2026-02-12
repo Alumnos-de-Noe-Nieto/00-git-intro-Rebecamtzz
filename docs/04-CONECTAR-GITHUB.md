@@ -194,26 +194,26 @@ Sube tu rama `main` a GitHub.
 
 ### Checkpoint 1: Cuenta de GitHub Verificada ✅
 
-- [ ] Tengo una cuenta activa en GitHub
-- [ ] **Verificación:** Abre https://github.com y haz login
+- [X] Tengo una cuenta activa en GitHub
+- [X] **Verificación:** Abre https://github.com y haz login
   - Deberías ver tu perfil con tu avatar
-- [ ] Si lograste iniciar sesión → ✅ Marca este checkpoint
+- [X] Si lograste iniciar sesión → ✅ Marca este checkpoint
 
 ### Checkpoint 2: Repositorio Creado en GitHub ✅
 
-- [ ] Creé un repositorio NUEVO en GitHub
-- [ ] **Verificación:** 
+- [X] Creé un repositorio NUEVO en GitHub
+- [X] **Verificación:** 
   - Ve a tu perfil (clic en tu avatar → "Your repositories")
   - Busca tu nuevo repositorio en la lista
   - Haz clic en él — debe estar vacío o con solo README.md
-- [ ] Si ves el repo → ✅ Marca este checkpoint
+- [X] Si ves el repo → ✅ Marca este checkpoint
 
 ### Checkpoint 3: Git y GitHub Conectados ✅
 
-- [ ] En tu computadora, ejecuté `git remote add origin <URL>`
-- [ ] Ejecuté `git push -u origin main`
-- [ ] El push se completó sin errores
-- [ ] **Verificación Paso 1:**
+- [X] En tu computadora, ejecuté `git remote add origin <URL>`
+- [X] Ejecuté `git push -u origin main`
+- [X] El push se completó sin errores
+- [X] **Verificación Paso 1:**
   ```bash
   git remote -v
   ```
@@ -222,7 +222,7 @@ Sube tu rama `main` a GitHub.
   origin  https://github.com/TuUsuario/TuRepo.git (fetch)
   origin  https://github.com/TuUsuario/TuRepo.git (push)
   ```
-- [ ] **Verificación Paso 2:**
+- [X] **Verificación Paso 2:**
   - Ve a GitHub.com y abre tu repositorio
   - Deberías VER tu archivo README.md
   - En "history" o "commits" deberías ver tu commit
