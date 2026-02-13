@@ -135,7 +135,7 @@ Completa cada checkpoint y verifica que funcionó:
 winget
 ```
 
-- [ ] El comando winget esta instalado y lo puedo ejecutar desde la linea de comandos
+- [x] El comando winget esta instalado y lo puedo ejecutar desde la linea de comandos
 
 
 ### Checkpoint 2: Git Instalado ✅
@@ -146,7 +146,7 @@ Ejecuta el comando en la consola para verificar que git esta instalado. Marca la
 git --version
 ```
 
-- [ ] Git esta instalado y puedo ejecutarlo y veo la version en la consola.
+- [x] Git esta instalado y puedo ejecutarlo y veo la version en la consola.
 
 ### Checkpoint 3: Identidad Configurada ✅
 
@@ -163,7 +163,7 @@ user.name=Mi Nombre Completo
 user.email=mi.email@escuela.mx
 ```
 
-- [ ] Ya configuré mi nombre y correo en git y lo puedo ver en la consola.
+- [x] Ya configuré mi nombre y correo en git y lo puedo ver en la consola.
 
 
 ### Checkpoint 4: SSH Generado ✅
@@ -181,7 +181,7 @@ id_ed25519
 id_ed25519.pub
 ```
 
-- [ ] Generé mi par de llaves SSH y las puedo ver listadas en el directorio `$env:USERPROFILE\.ssh\`
+- [x] Generé mi par de llaves SSH y las puedo ver listadas en el directorio `$env:USERPROFILE\.ssh\`
 
 
 ### Checkpoint 5: SSH Conectado a GitHub ✅
@@ -198,7 +198,7 @@ Deberías de poder ver de nuevo este mensaje:
 Hi TuUsuario! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-- [ ] Activa esta casilla si viste el mensaje de confirmación de que tu conexión a GitHub se puede completar.
+- [o] Activa esta casilla si viste el mensaje de confirmación de que tu conexión a GitHub se puede completar.
 
 
 ## 💾 Guarda tu Progreso en Git
