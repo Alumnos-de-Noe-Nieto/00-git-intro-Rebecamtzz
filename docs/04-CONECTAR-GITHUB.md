@@ -226,7 +226,7 @@ Sube tu rama `main` a GitHub.
   - Ve a GitHub.com y abre tu repositorio
   - Deberías VER tu archivo README.md
   - En "history" o "commits" deberías ver tu commit
-- [ ] Si cumples AMBAS verificaciones → ✅ Marca este checkpoint
+- [x] Si cumples AMBAS verificaciones → ✅ Marca este checkpoint
 
 **¡Felicidades! Git local está conectado con GitHub. Ahora puedes colaborar.**
 
