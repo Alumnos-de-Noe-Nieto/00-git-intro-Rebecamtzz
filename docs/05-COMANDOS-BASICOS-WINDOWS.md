@@ -373,12 +373,11 @@ git push                          # Subir tus cambios
 
 ---Checkpoint 10: Todo Dominado ✅
 
-- [ ] Entiendo qué es un commit
-- [ ] Puedo crear y ver un repositorio
-- [ ] Sé los 4 comandos esenciales
-- [ ] Puedo resolver problemas comunes
-- [ ] Completé el ejercicio práctico
-
+- [x] Entiendo qué es un commit
+- [x] Puedo crear y ver un repositorio
+- [x] Sé los 4 comandos esenciales
+- [x] Puedo resolver problemas comunes
+- [x] Completé el ejercicio práctico
 ---
 
 ## 
