@@ -41,4 +41,4 @@ a GitHub, lo cual me servirá en proyectos escolares y en el futuro.
 **Nombre del repositorio en GitHub:** mi-proyecto-git
 
 **Enlace público:**  
-https://github.com/Rebecamtzz/mi-proyecto-git
+https://github.com/Rebecamtzz/Mi-repositorio.git
